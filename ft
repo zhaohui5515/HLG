@@ -1,3 +1,3 @@
-{"title":"FT NFT","type":"object","properties":{"name":{"type":"string","description":"FT  NFT"},"description":{"type":"string","description":"FT NFT info"}},"image":"https://raw.githubusercontent.com/zhaohui5515/HLG/main/image/ft_nft.jpg"}
+{"title":"FT NFT","type":"object","properties":{"name":{"type":"string","description":"FT  NFT"},"description":{"type":"string","description":"FT NFT info"}},"image":"https://raw.githubusercontent.com/zhaohui5515/HLG/main/image/ftnft.jpg"}
 
  
