@@ -1,0 +1,3 @@
+{"title":"BitCat NFT","type":"object","properties":{"name":{"type":"string","description":"BitCat  NFT"},"description":{"type":"string","description":"BitCat NFT info"}},"image":"https://raw.githubusercontent.com/zhaohui5515/HLG/main/image/bitcat.jpg"}
+
+ 
