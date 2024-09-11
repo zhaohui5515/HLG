@@ -1,0 +1,3 @@
+{"title":"Duck NFT","type":"object","properties":{"name":{"type":"string","description":"Duck NFT"},"description":{"type":"string","description":"Duck NFT info"}},"image":"https://raw.githubusercontent.com/zhaohui5515/HLG/main/image/duck.jpg"}
+
+ 
